@@ -17,6 +17,6 @@ hardware is at its first revision and nothing here is a validated product.
 | --- | --- |
 | [brand](https://github.com/origin89hq/brand) | The identity and the Buddy character, published as `@origin89/brand`. The brand kit and the design guide are on its releases. |
 
-The code, hardware and documentation repositories follow as they are prepared
-for release. Website: [origin89.com](https://origin89.com). Security reports:
-[hello@origin89.com](mailto:hello@origin89.com).
+The code, hardware and documentation repositories are still private while
+their licences and contents are settled. Website: [origin89.com](https://origin89.com).
+Security reports: [hello@origin89.com](mailto:hello@origin89.com).
