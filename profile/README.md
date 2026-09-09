@@ -15,8 +15,9 @@ hardware is at its first revision and nothing here is a validated product.
 
 | Repository | What it holds |
 | --- | --- |
+| [hardware](https://github.com/origin89hq/hardware) | The controller and generator boards and the enclosure: EasyEDA sources, dated fabrication exports, the Gerber check. |
+| [camera](https://github.com/origin89hq/camera) | The trail camera on a Wi-Fi HaLow mesh: concept, circuit, layout rules and the first copper. |
 | [brand](https://github.com/origin89hq/brand) | The identity and the Buddy character, published as `@origin89/brand`. The brand kit and the design guide are on its releases. |
 
-The code, hardware and documentation repositories are still private while
-their licences and contents are settled. Website: [origin89.com](https://origin89.com).
+Website: [origin89.com](https://origin89.com).
 Security reports: [hello@origin89.com](mailto:hello@origin89.com).
